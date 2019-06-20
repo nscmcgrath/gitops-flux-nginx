@@ -1,4 +1,6 @@
-# gitops-istio
+# gitops-flux-nginx
+
+NOTE: This repository is an attempt to setup a Flux canary using nginx ingress controllers instead of Istio.
 
 This guide walks you through setting up Istio on a Kubernetes cluster and 
 automating canary deployments with GitOps pipelines.
